@@ -1,3 +1,7 @@
+## Credits
+
+https://github.com/djsime1
+
 <hr>
 
 <a href="https://github.com/djsime1/awesome-flipperzero">
